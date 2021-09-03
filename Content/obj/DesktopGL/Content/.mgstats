@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Projects/Playground/dotnet/physics/Content/square.png","C:/Projects/Playground/dotnet/physics/Content/bin/DesktopGL/Content/square.xnb","TextureProcessor","Texture2DContent",524,1109,0.1129834
